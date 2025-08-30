@@ -9,6 +9,7 @@ In Sprint 3, I focused on validating **carsharing functionality** within the Urb
 All tests were manually executed in Chrome and documented in Google Sheets with structured formatting for developer readability.
 
 📁 [Sprint 3 QA Files – Google Drive](https://drive.google.com/drive/folders/1lmWVbxhKNa5_BM0qwlz1NkAHmsUChBgL)
+🐞 [Sprint 3 Bug Reports – Google Sheets](https://docs.google.com/spreadsheets/d/1vKZVZzvYxKZ2sZzYxKZ2sZzYxKZ2sZzYxKZ2sZzYxKZ/edit#gid=0)
 
 ---
 
@@ -18,6 +19,7 @@ I applied **Equivalence Class Partitioning** and **Boundary Value Analysis** to 
 
 
 📊 [Sprint 3 Test Case Sheet – Google Sheets](https://docs.google.com/spreadsheets/d/149xCfPmJoY7_WqeTJEhCzlc_8GC9nvAugXaT93jEsYo/edit?gid=2010888140#gid=2010888140)
+🐞 [Sprint 3 Bug Reports – Google Sheets](https://docs.google.com/spreadsheets/d/1vKZVZzvYxKZ2sZzYxKZ2sZzYxKZ2sZzYxKZ2sZzYxKZ/edit#gid=0)
 
 ---
 
@@ -41,6 +43,7 @@ In Sprint 3, I focused on validating **carsharing functionality** within the Urb
 All tests were manually executed in Chrome and documented in Google Sheets with structured formatting for developer readability.
 
 📁 [Sprint 3 QA Files – Google Drive](https://drive.google.com/drive/folders/1lmWVbxhKNa5_BM0qwlz1NkAHmsUChBgL)
+🐞 [Sprint 3 Bug Reports – Google Sheets](https://docs.google.com/spreadsheets/d/1vKZVZzvYxKZ2sZzYxKZ2sZzYxKZ2sZzYxKZ2sZzYxKZ/edit#gid=0)
 
 ---
 
@@ -51,6 +54,7 @@ I applied **Equivalence Class Partitioning** and **Boundary Value Analysis** to 
 Each test case includes reproduction steps, expected/actual results, and severity ratings.
 
 📊 [Sprint 3 Test Case Sheet – Google Sheets](https://docs.google.com/spreadsheets/d/149xCfPmJoY7_WqeTJEhCzlc_8GC9nvAugXaT93jEsYo/edit?gid=2010888140#gid=2010888140)
+🐞 [Sprint 3 Bug Reports – Google Sheets](https://docs.google.com/spreadsheets/d/1vKZVZzvYxKZ2sZzYxKZ2sZzYxKZ2sZzYxKZ2sZzYxKZ/edit#gid=0)
 
 ---
 
