@@ -51,5 +51,4 @@ Each sprint includes:
 ## 📬 Contact
 
 - GitHub: [cristawloch](https://github.com/cristawloch)
-- Location: Green Hill / Mount Juliet, TN
 - LinkedIn: [Crista Wloch](https://www.linkedin.com/in/crista-wloch)
