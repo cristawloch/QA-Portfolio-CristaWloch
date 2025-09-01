@@ -1,21 +1,30 @@
-## Sprint 7 — Python Automation Framework Setup (Urban Routes)
+## Sprint 8 — Selenium End-to-End Automation (Urban Routes)
 
-**Platform:** Python, PyTest, Selenium (prep)  
-**Focus:** Laying groundwork for automation.  
+**Platform:** Python, Selenium WebDriver, PyTest, Page Object Model (POM)  
+**Focus:** Full automation of Urban Routes app  
 **GitHub Repository:** [QA-USA-Python_Automation1](https://github.com/cristawloch/QA-USA-Python_Automation1)
 
 **Key Deliverables:**
-- Created modular repo: `data.py`, `helpers.py`, `main.py`, `requirements.txt`
-- Added test data constants (address, phone, card, driver message) in `data.py`
-- Defined 8 placeholder test functions in `main.py` (PyTest-compatible)
-- Added `setup_class` for server connectivity checks
-- Prepared loop for “Order 2 Ice Creams” test in `main.py`
+- Implemented **Page Object Model (POM)** in `pages.py` for maintainable, reusable test code
+- Automated complete booking flow:
+  1. Set route  
+  2. Select tariff  
+  3. Enter phone  
+  4. Verify SMS  
+  5. Add card  
+  6. Add driver comment  
+  7. Order blanket & handkerchiefs  
+  8. Order 2 ice creams  
+  9. Verify car search modal
+- Applied **explicit waits** and **conditional checks** to ensure stability
+- Created helper utilities for common actions
+- Structured tests in `main.py` with locators + methods in `pages.py`
 
 **Technical Skills Demonstrated:**
-- Python project structuring for test automation
-- Modular test data management
-- PyTest class and method scaffolding
-- GitHub version control with clear, atomic commits
+- Selenium WebDriver automation with PyTest
+- POM architecture for scalability and maintainability
+- Synchronization strategies using explicit waits
+- Modular test design with separation of concerns
 
 **Outcome:**  
-A clean, modular, and version‑controlled Python test framework, ready for Selenium WebDriver integration in Sprint 8. This setup ensures that test logic, data, and utilities remain decoupled, improving maintainability and scalability.
+Delivered a robust, fully automated test suite covering the Urban Routes booking process from start to finish, ready for CI/CD integration and regression testing.
