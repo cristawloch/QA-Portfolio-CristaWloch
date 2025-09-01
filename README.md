@@ -48,7 +48,3 @@ Each sprint includes:
 - Build automation coverage for real-world edge cases
 - Continue refining documentation that bridges technical depth and usability
 
-## 📬 Contact
-
-- GitHub: [cristawloch](https://github.com/cristawloch)
-- LinkedIn: [Crista Wloch](https://www.linkedin.com/in/crista-wloch)
