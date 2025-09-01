@@ -1,10 +1,13 @@
-# 🧪 QA Engineering Portfolio – Crista Wloch
+# 🧪 QA Analyst Portfolio – Crista Wloch
 
 “QA projects from TripleTen bootcamp—manual testing, API validation, database checks, mobile testing, and Python automation with symbolic clarity.”
 
 ## 👩‍💻 About Me
 
-I'm a QA Engineer and Application Support Specialist based in Mount Juliet, TN. I specialize in manual testing, backend API validation, SQL-based checks, and Python automation. I completed TripleTen’s QA program ahead of schedule, and this portfolio showcases my sprint-by-sprint growth, attention to detail, and developer-ready documentation.
+I'm a highly focused and detail-driven QA Analyst with a passion for clarity, usability, and developer-ready documentation. I specialize in manual testing, backend API validation, SQL-based checks, and Python automation. I completed TripleTen’s QA program ahead of schedule, consistently delivering structured bug reports, exploratory test cases, and traceable documentation across web, mobile, and backend platforms.
+
+My work reflects a commitment to real-world usability and symbolic clarity—ensuring that every test, report, and validation step contributes meaningfully to product quality and team collaboration.
+
 
 ## 🛠️ Skills & Tools
 
@@ -41,7 +44,7 @@ Each sprint includes:
 
 ## 🎯 Career Goals
 
-- Secure a remote QA role where I can apply and grow my skills
+- Secure a remote QA Analyst role where I can apply and grow my skills
 - Build automation coverage for real-world edge cases
 - Continue refining documentation that bridges technical depth and usability
 
@@ -50,7 +53,3 @@ Each sprint includes:
 - GitHub: [cristawloch](https://github.com/cristawloch)
 - Location: Green Hill / Mount Juliet, TN
 - LinkedIn: [Crista Wloch](https://www.linkedin.com/in/crista-wloch)
-
----
-
-
