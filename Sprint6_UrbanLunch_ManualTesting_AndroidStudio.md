@@ -11,7 +11,7 @@ Key activities included:
 This sprint strengthened my ability to test mobile applications end‑to‑end, reproduce and isolate issues, and communicate findings in a way that supports efficient fixes.
 
 **Related Resources:**  
-- 📄 [Sprint 6 Google Drive Test Documentation](https://drive.google.com/drive/folders/1rHZEGAs-WyfopAI-ny9w2yisHfIN0mSf)  
+- 📄 [Sprint 6 Google Drive Test Documentation](https://docs.google.com/spreadsheets/d/1nNq8GWS4qqKsPb6n_uY6thkHnOkm1cIozoH9OXFuyEY/edit?gid=287334773#gid=287334773)  
 - 🗂 [Sprint 6 Jira Board](https://cristaquility.atlassian.net/jira/software/projects/TS6P/boards/100?selectedIssue=TS6P-1)  
 
 ---
