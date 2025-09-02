@@ -9,7 +9,7 @@ In Sprint 3, I focused on validating **carsharing functionality** within the Urb
 All tests were manually executed in Chrome and documented in Google Sheets with structured formatting for developer readability.
 
 📁 [Sprint 3 QA Files – Google Drive](https://drive.google.com/drive/folders/1lmWVbxhKNa5_BM0qwlz1NkAHmsUChBgL)  
-🐞 [Sprint 3 Bug Reports – Jira](https://cristaquility.atlassian.net/jira/software/projects/TFP3/boards/199)
+🐞 [Sprint 3 Bug Reports – Jira](https://cristaquility.atlassian.net/jira/software/projects/TS3P/boards/34)
 
 ---
 
@@ -22,7 +22,7 @@ I applied **Equivalence Class Partitioning** and **Boundary Value Analysis** to 
 - Edge cases: borderline values at 15 and 17 digits to confirm rejection logic
 
 📊 [Sprint 3 Test Case Sheet – Google Sheets](https://docs.google.com/spreadsheets/d/149xCfPmJoY7_WqeTJEhCzlc_8GC9nvAugXaT93jEsYo/edit?gid=2010888140#gid=2010888140)  
-🐞 [Sprint 3 Bug Reports – Jira](https://cristaquility.atlassian.net/jira/software/projects/TFP3/boards/199)
+🐞 [Sprint 3 Bug Reports – Jira](https://cristaquility.atlassian.net/jira/software/projects/TS3P/boards/34)
 
 ---
 
