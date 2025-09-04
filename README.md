@@ -4,10 +4,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a highly focused and detail-driven QA Analyst with a passion for clarity, usability, and developer-ready documentation. I specialize in manual testing, backend API validation, SQL-based checks, and Python automation. I completed TripleTen’s QA program ahead of schedule, consistently delivering structured bug reports, exploratory test cases, and traceable documentation across web, mobile, and backend platforms.
+I'm a QA Analyst with a sharp eye for detail and a drive for delivering developer-ready documentation that accelerates team velocity. My expertise spans manual testing, backend API validation, SQL-based checks, and Python automation—applied across web, mobile, and backend platforms.
 
-My work reflects a commitment to real-world usability and symbolic clarity—ensuring that every test, report, and validation step contributes meaningfully to product quality and team collaboration.
-
+I specialize in structured bug reporting, exploratory test design, and traceable documentation that aligns with real-world usability and cross-functional collaboration. My work ensures that every validation step contributes directly to product quality and stakeholder confidence.
 
 ## 🛠️ Skills & Tools
 
