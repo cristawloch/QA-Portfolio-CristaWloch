@@ -1,6 +1,6 @@
 # 🧪 QA Analyst Portfolio – Crista Wloch
 
-“QA projects from TripleTen bootcamp—manual testing, API validation, SQL database checks, mobile testing, and Python automation.”
+QA projects from TripleTen bootcamp—manual testing, API validation, SQL database checks, mobile testing, and Python automation.
 
 
 ## 👩‍💻 About Me
